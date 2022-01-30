@@ -20,7 +20,10 @@
  <a href="https://discord.gg/rT3YuDVQbP" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ellagandugliadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danielladomingosmtk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href= "https://www.tiktok.com/@ellaganduglia"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank">
+  <a href= "https://www.tiktok.com/@ellaganduglia"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+    
+    
  
   ![Snake animation](https://github.com/ellaganduglia/ellaganduglia/blob/output/github-contribution-grid-snake.svg)
-    
+    </div>
+
